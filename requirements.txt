@@ -1,0 +1,6 @@
+Pandas 
+Tensorflow
+Nltk
+scikit-learn
+opendatasets
+numpy 
